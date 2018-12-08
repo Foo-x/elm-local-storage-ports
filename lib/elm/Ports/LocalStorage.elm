@@ -5,7 +5,7 @@ import Json.Encode
 
 
 type alias Key = String
-type alias Value = String
+type alias Value = Json.Encode.Value
 type alias NewValue = Value
 type alias OldValue = Value
 
