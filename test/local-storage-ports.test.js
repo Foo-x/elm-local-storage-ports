@@ -1,4 +1,4 @@
-const localStoragePorts = require('../src/local-storage-ports');
+const localStoragePorts = require('../lib/js/local-storage-ports');
 
 let mockPorts;
 let mockLocalStorage;
